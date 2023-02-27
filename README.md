@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cesar VIllanueva
 ========================================================================================================================================
 
-Back-End\_Developer / Web\_Developer and Python and JS lover!!!
+Back-End\_Developer / Web\_Developer and Python -- JS lover!!!
 ---------------------------------------------------------------
 
 Hello my name is Cesar Villanueva and i´m a Back-End\_Developer and Web\_Developer. My favorite hobby is programming and learn new Technologies for my portfolio. I hope you like my projects.
