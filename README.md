@@ -6,7 +6,7 @@ Back-End\_Developer / Web\_Developer and Python-JS lover!!!
 
 Hello my name is Cesar Villanueva and i´m a Back-End\_Developer and Web\_Developer. My favorite hobby is programming and learn new Technologies for my portfolio. I hope you like my projects.
 
-* 🌍  I'm based in Mexico City
+* 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [cesar.villanuevaolivero@gmail.com](mailto:cesar.villanuevaolivero@gmail.com)
 * 🧠  I'm learning Python Advanced and Django-React integration
 * 🤝  I'm open to collaborating on projects that you need my knoledge
