@@ -1,7 +1,8 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cesar Villanueva
 ========================================================================================================================================
 
-Back-End\_Developer (Python - fastAPI, JS/TS - node.js) / WebApp_Developer (Django , next.js /node.js) !!!
+Back-End\_Developer (Python - fastAPI, JS/TS - node.js) / 
+WebApp_Developer (Django , next.js /node.js) !!!
 ---------------------------------------------------------------
 
 Hello my name is Cesar Villanueva and i´m a Back-End\_Developer and Web\_Developer. My favorite hobby is programming and learn new Technologies for my portfolio. I hope you like my projects.
