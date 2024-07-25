@@ -1,15 +1,15 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cesar Villanueva
+My name is Cesar Villanueva.
 ========================================================================================================================================
 
-Back-End\_Developer (Python - fastAPI, JS/TS - node.js) / <br> WebApp_Developer (Django , next.js /node.js) !!!
+Back-End\_Developer (Python - fastAPI, JS/TS - node.js) / <br> WebApp_Developer (Django, next.js /node.js) 
 ---------------------------------------------------------------
 
-Hello my name is Cesar Villanueva and i´m a Back-End\_Developer and Web\_Developer. My favorite hobby is programming and learn new Technologies for my portfolio. I hope you like my projects.
+My name is Cesar Villanueva and I am a Back-End\_Developer and Web\_Developer. My favorite activity is programming and learning new technologies for my portfolio. I am open to suggestions.
 
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [cesar.villanuevaolivero@gmail.com](mailto:cesar.villanuevaolivero@gmail.com)
-* 🧠  I'm learning Python Advanced and Django-React integration
-* 🤝  I'm open to collaborating on projects that you need my knoledge
+* 🧠  I'm learning Python Advanced, Django-React integration, and TypeScript. 
+* 🤝  I'm open to collaborating on projects you need my knowledge.
 
 ### Skills
 
