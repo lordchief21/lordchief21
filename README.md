@@ -9,10 +9,9 @@ My name is Cesar Villanueva and I am a Back-End\_Developer and Web\_Developer. M
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [cesar.villanuevaolivero@gmail.com](mailto:cesar.villanuevaolivero@gmail.com)
 * 🧠  I'm learning Python Advanced, Django-React integration, and TypeScript. 
-* 🤝  I'm open to collaborating on projects you need my knowledge.
+* 🤝  I'm open to collaborating on projects that may need my knowledge.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
